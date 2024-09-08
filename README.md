@@ -7,7 +7,7 @@ Tim Data Science membutuhkan data scraping dari website untuk melihat pola judul
 
 ##Data Engineer Solution
 Diperlukan Data Warehouse untuk mengumpulkan ketiga data tersebut sehingga mudah diakses seluruh tim
-
+![](pic/untitled.png)
 
 
 ###Membuat ETL Pipeline Design:
