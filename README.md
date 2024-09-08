@@ -31,3 +31,8 @@ Save the output totables on Postgres
 Tools: Python, Pandas, Luigi, dan PostgreSQL
 Output lainnya: Json file
 
+
+
+Other process:
+
+Datawarehouse yang telah dibuat dijadikan image lalu diupload ke dockerhub
